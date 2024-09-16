@@ -13,6 +13,6 @@ Somos uma equipe iniciante e essa foi a nossa primeira bugcup, pretendemos parti
 5 - Java: Bruno Pinheiro, Carlos Pozzenato e Rafael Baccin.
 6 - Php Bruno Evaristo Pinheiro.
 7 - C: Rafael Baccin.
-8 - P Carlos Eduardo M. Pozzenato.
+8 - Python: Carlos Eduardo M. Pozzenato.
 9 - Php: Bruno Evaristo Pinheiro.
 10 - Java: Bruno Pinheiro, Carlos Pozzenato e Rafael Baccin.
