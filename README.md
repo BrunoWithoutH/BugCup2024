@@ -2,7 +2,7 @@
 A 7ª edição da BugCup está acontecendo! No presente repositório, estão os desafios da etapa classificatória do torneio, contendo códigos em PHP, Java, JavaScript, Python e C.  
 Somos uma equipe iniciante e essa foi a nossa primeira bugcup, pretendemos participar das próximas edições :)
 ## Equipe: Coda e Dorme
-* *Capitão:* Bruno Evaristo Pinheiro
+* _Capitão:_ Bruno Evaristo Pinheiro
 * *2º integrante:* Carlos Eduardo M. Pozzenato
 * "3º integrante:* Rafael Baccin
 ## Autores dos desafios
