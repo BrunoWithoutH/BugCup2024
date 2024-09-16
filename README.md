@@ -8,8 +8,8 @@ Somos uma equipe iniciante e essa foi a nossa primeira bugcup, pretendemos parti
 ## Autores dos desafios
 1 - Php: Bruno Evaristo Pinheiro.
 2 - Java: Rafael Baccin.
-3 - p: Carlos Eduardo M. Pozzenato.
-4 - p: Carlos Eduardo M. Pozzenato.
+3 - JavaScript: Carlos Eduardo M. Pozzenato.
+4 - Python: Carlos Eduardo M. Pozzenato.
 5 - Java: Bruno Pinheiro, Carlos Pozzenato e Rafael Baccin.
 6 - Php Bruno Evaristo Pinheiro.
 7 - C: Rafael Baccin.
