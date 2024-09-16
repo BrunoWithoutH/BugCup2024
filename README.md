@@ -6,13 +6,13 @@ Somos uma equipe iniciante e essa foi a nossa primeira bugcup, pretendemos parti
 * *2º integrante:* Carlos Eduardo M. Pozzenato
 * "3º integrante:* Rafael Baccin
 ## Autores dos desafios
-1. Bruno Evaristo Pinheiro.
-2. Rafael Baccin.
-3. Carlos Eduardo M. Pozzenato.
-4. Carlos Eduardo M. Pozzenato.
-5. Bruno Pinheiro, Carlos Pozzenato e Rafael Baccin.
-6. Bruno Evaristo Pinheiro.
-7. Rafael Baccin.
-8. Carlos Eduardo M. Pozzenato.
-9. Bruno Evaristo Pinheiro.
-10. Bruno Pinheiro, Carlos Pozzenato e Rafael Baccin.
+1 - Php: Bruno Evaristo Pinheiro.
+2 - Java: Rafael Baccin.
+3 - p: Carlos Eduardo M. Pozzenato.
+4 - p: Carlos Eduardo M. Pozzenato.
+5 - Java: Bruno Pinheiro, Carlos Pozzenato e Rafael Baccin.
+6 - Php Bruno Evaristo Pinheiro.
+7 - C: Rafael Baccin.
+8 - P Carlos Eduardo M. Pozzenato.
+9 - Php: Bruno Evaristo Pinheiro.
+10 - Java: Bruno Pinheiro, Carlos Pozzenato e Rafael Baccin.
