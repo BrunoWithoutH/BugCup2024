@@ -1,5 +1,4 @@
 <?php
-//não aguento mais essa vida
     class procura 
     {
         public static function pot($y, $x) {
@@ -8,7 +7,7 @@
                 if ($x & 1) {
                     $res = $res * $y;
                 }
-                $y = $y * $y; //divido por y ao invés de multiplicar
+                $y = $y * $y;
                 $x >>= 1;
             }
             return $res;
@@ -25,7 +24,7 @@
 
             $index = $N % $digits;
 
-            $res = self::pot(10, $digits - 1) + intval(($N - 1) / $digits); //troquei os dois operadores por -
+            $res = self::pot(10, $digits - 1) + intval(($N - 1) / $digits);
 
             if ($index != 0) {
                 $res = intval($res / self::pot(10, $digits - $index));
@@ -37,7 +36,7 @@
         public static function main() {
             $q = 3;
             $vetor = [7, 19, 12];
-            for ($i = 0; $i < $q; $i++) { //mudei o sinal de > para <, pq não tava executandp o loop
+            for ($i = 0; $i < $q; $i++) {
                 echo self::procuraD($vetor[$i]) . " ";
             }
             echo PHP_EOL;
