@@ -9,4 +9,4 @@
     }
 
     echo "A idade da pessoa mais velha é $i anos.";
-//meio obvio o que eu coloquei aq?>
+?>
