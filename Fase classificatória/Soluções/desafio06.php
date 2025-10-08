@@ -39,7 +39,7 @@ $array = [1,2,3,3,3,4,4,5,5,5,12,12,56,56,56,99,99,99];
 $modos = encontrarModo($array);
 
 if (is_array($modos)) {
-    echo implode(", ", $modos); //tava tendando transforar um array em array dnv, coloquei implode
+    echo implode(", ", $modos);
 } else {
     echo $modos;
 }
